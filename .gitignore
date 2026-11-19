@@ -1,0 +1,12 @@
+# Local ROMs, extracted resources and build artifacts
+*.[nN][dD][sS]
+*.[sS][rR][lL]
+*.[sS][aA][vV]
+*.[dD][sS][vV]
+/orig/
+/extract/
+/build/
+/res/
+*.zip
+*.7z
+*.rar
